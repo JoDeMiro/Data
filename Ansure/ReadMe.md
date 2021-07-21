@@ -1,0 +1,1 @@
+It records more than 100 different types of body measurements of more than 6000 US Army Personnel. Our goal is to predict the weight in pounds using as few features as possible. (There are 93 numeric features in the dataset)
